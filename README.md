@@ -41,7 +41,12 @@
 
 **其它人不能将本书用于商用用途，不能转载，不能以任何形式发行，违者将追究法律责任**。
 
-# node -v 8.9.1
-# npm install
-# node app.js
+# 启动本地看书，取消遮罩层
+node -v 8.9.1
+
+npm install
+
+node app.js
+
+localhost:8083/index.html
 
