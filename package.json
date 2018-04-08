@@ -1,0 +1,24 @@
+{
+  "name": "dive-into-webpack",
+  "version": "1.0.0",
+  "description": "<p align='center'>   <a href='http://webpack.wuhaolin.cn/'>     <img src='http://ou8vcvyuy.bkt.clouddn.com/dive-into-webpack.png' width='306px' height='411px'/>   </a> </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luf543/dive-into-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luf543/dive-into-webpack/issues"
+  },
+  "homepage": "https://github.com/luf543/dive-into-webpack#readme",
+  "devDependencies": {
+    "koa": "^2.5.0",
+    "koa-static": "^4.0.2"
+  }
+}
